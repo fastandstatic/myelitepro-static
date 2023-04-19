@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2023-04-19T18:58:19+00:00</lastmod>
+		<lastmod>2023-04-19T19:27:37+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/04/Mask-Group-63-1.png</image:loc>
 		</image:image>
@@ -41,68 +41,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2023/03/complejo-residencial-hoteles-piscina-sunny-beach-bulgaria-vacaciones-verano-europa-cuarentena.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./community-management/index.html</loc>
-		<lastmod>2023-04-14T22:45:42+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Mask-Group-69.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Mask-Group-70.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/564c4464-e1681414401479.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/a4_page-2-e1681484880199.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/a4_pageSOMBRILLA-1-e1681484914135.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./developer-services/index.html</loc>
-		<lastmod>2023-04-14T22:46:47+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Mask-Group-73.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./lifestyle-services/index.html</loc>
-		<lastmod>2023-04-14T22:47:23+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Mask-Group-76.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./professional-maintenance/index.html</loc>
-		<lastmod>2023-04-14T22:47:40+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/a4_page-3-e1681485059397.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/METRO-e1681414741635.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Mask-Group-71.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Mask-Group-72.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./technology-solutions/index.html</loc>
-		<lastmod>2023-04-14T22:48:52+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/dash-e1681485564327.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/04/Mask-Group-77.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -180,6 +118,98 @@
 	<url>
 		<loc>./contact-us/index.html</loc>
 		<lastmod>2023-04-19T18:57:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>./community-management/index.html</loc>
+		<lastmod>2023-04-19T19:11:08+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-69.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-70.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-70.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/564c4464-e1681414401479.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/a4_page-2-e1681484880199.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/a4_page-2-e1681484880199.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/a4_pageSOMBRILLA-1-e1681484914135.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./lifestyle-services/index.html</loc>
+		<lastmod>2023-04-19T19:12:19+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-76.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-76.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./professional-maintenance/index.html</loc>
+		<lastmod>2023-04-19T19:14:18+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/a4_page-3-e1681485059397.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/a4_page-3-e1681485059397.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/METRO-e1681414741635.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-71.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-71.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-72.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-72.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./technology-solutions/index.html</loc>
+		<lastmod>2023-04-19T19:16:42+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/dash-e1681485564327.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/dash-e1681485564327.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-77.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-77.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./developer-services/index.html</loc>
+		<lastmod>2023-04-19T19:17:51+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-73.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2023/04/Mask-Group-73.png</image:loc>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
