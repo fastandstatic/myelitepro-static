@@ -7,20 +7,20 @@
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.5 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Lifestyle Services - Elite PRO</title>
+	<title>Community Management - Elite PRO</title>
 	<link rel="canonical" href="./ ">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="Lifestyle Services - Elite PRO">
-	<meta property="og:description" content="Lifestyle Services Boost the vitality of your neighborhood Our team develops engaging programs that are suitable for all types of communities. Our goal is to foster a sense of connection among neighbors through these initiatives. Lifestyle Services Bringing Communities Together Our team is experienced in creating programs that are designed to capture people’s attention and [&hellip;]">
+	<meta property="og:title" content="Community Management - Elite PRO">
+	<meta property="og:description" content="Community Management Achieve bigger and better things Building a successful community takes a lot of hard work and dedication. Luckily, with our team on your side, you can rest assured that you&#8217;re in good hands. We&#8217;re all about providing exceptional management services, our commitment to consistency and attentiveness means that you can trust us to [&hellip;]">
 	<meta property="og:url" content="./ ">
 	<meta property="og:site_name" content="Elite PRO">
-	<meta property="article:modified_time" content="2023-04-19T19:12:19+00:00">
-	<meta property="og:image" content="./../wp-content/uploads/2023/04/Mask-Group-76.png">
+	<meta property="article:modified_time" content="2023-04-19T19:11:08+00:00">
+	<meta property="og:image" content="./../wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:label1" content="Est. reading time">
-	<meta name="twitter:data1" content="2 minutes">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":".//lifestyle-services/","url":".//lifestyle-services/","name":"Lifestyle Services - Elite PRO","isPartOf":{"@id":".//#website"},"primaryImageOfPage":{"@id":".//lifestyle-services/#primaryimage"},"image":{"@id":".//lifestyle-services/#primaryimage"},"thumbnailUrl":".//wp-content/uploads/2023/04/Mask-Group-76.png","datePublished":"2023-03-23T21:17:52+00:00","dateModified":"2023-04-19T19:12:19+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":[".//lifestyle-services/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":".//lifestyle-services/#primaryimage","url":".//wp-content/uploads/2023/04/Mask-Group-76.png","contentUrl":".//wp-content/uploads/2023/04/Mask-Group-76.png","width":911,"height":845},{"@type":"WebSite","@id":".//#website","url":".//","name":"Elite PRO","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":".//?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<meta name="twitter:data1" content="7 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":".//community-management/","url":".//community-management/","name":"Community Management - Elite PRO","isPartOf":{"@id":".//#website"},"primaryImageOfPage":{"@id":".//community-management/#primaryimage"},"image":{"@id":".//community-management/#primaryimage"},"thumbnailUrl":".//wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png","datePublished":"2023-03-17T15:48:33+00:00","dateModified":"2023-04-19T19:11:08+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":[".//community-management/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":".//community-management/#primaryimage","url":".//wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png","contentUrl":".//wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png","width":613,"height":693},{"@type":"WebSite","@id":".//#website","url":".//","name":"Elite PRO","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":".//?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -57,7 +57,7 @@ img.emoji {
 <link rel="stylesheet" id="swiper-css" href="./../wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6" media="all">
 <link rel="stylesheet" id="elementor-pro-css" href="./../wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1681932054" media="all">
 <link rel="stylesheet" id="elementor-global-css" href="./../wp-content/uploads/elementor/css/global.css?ver=1681932055" media="all">
-<link rel="stylesheet" id="elementor-post-656-css" href="./../wp-content/uploads/elementor/css/post-656.css?ver=1681932550" media="all">
+<link rel="stylesheet" id="elementor-post-558-css" href="./../wp-content/uploads/elementor/css/post-558.css?ver=1681932520" media="all">
 <link rel="stylesheet" id="elementor-post-48-css" href="./../wp-content/uploads/elementor/css/post-48.css?ver=1681932060" media="all">
 <link rel="stylesheet" id="elementor-post-175-css" href="./../wp-content/uploads/elementor/css/post-175.css?ver=1681932061" media="all">
 <link rel="stylesheet" id="elementor-post-465-css" href="./../wp-content/uploads/elementor/css/post-465.css?ver=1681932061" media="all">
@@ -70,16 +70,16 @@ img.emoji {
 <script src="./../wp-includes/js/jquery/jquery.min.js?ver=3.6.3" id="jquery-core-js"></script>
 <script src="./../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="./../wp-json/ ">
-<link rel="alternate" type="application/json" href="./../wp-json/wp/v2/pages/656/ ">
+<link rel="alternate" type="application/json" href="./../wp-json/wp/v2/pages/558/ ">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2">
-<link rel="shortlink" href="./../ ?p=656">
-<link rel="alternate" type="application/json+oembed" href="./../wp-json/oembed/1.0/embed/ ?url=https%3A%2F%2F%2Flifestyle-services%2F">
-<link rel="alternate" type="text/xml+oembed" href="./../wp-json/oembed/1.0/embed/ ?url=https%3A%2F%2F%2Flifestyle-services%2F#038;format=xml">
+<link rel="shortlink" href="./../ ?p=558">
+<link rel="alternate" type="application/json+oembed" href="./../wp-json/oembed/1.0/embed/ ?url=https%3A%2F%2F%2Fcommunity-management%2F">
+<link rel="alternate" type="text/xml+oembed" href="./../wp-json/oembed/1.0/embed/ ?url=https%3A%2F%2F%2Fcommunity-management%2F#038;format=xml">
 <meta name="generator" content="Elementor 3.12.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
 </head>
-<body class="page-template-default page page-id-656 elementor-default elementor-kit-5 elementor-page elementor-page-656">
+<body class="page-template-default page page-id-558 elementor-default elementor-kit-5 elementor-page elementor-page-558">
 
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -121,12 +121,12 @@ img.emoji {
 <li id="premium-nav-menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children premium-nav-menu-item">
 <a href="#" class="premium-menu-link premium-menu-link-parent">Our services<i class="fas fa-angle-down premium-dropdown-icon"></i></a>
 <ul class="premium-sub-menu">
-	<li id="premium-nav-menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-management/ " class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
+	<li id="premium-nav-menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-558 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
 	<li id="premium-nav-menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../professional-maintenance/ " class="premium-menu-link premium-sub-menu-link">Professional Maintenance</a></li>
 	<li id="premium-nav-menu-item-637" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../developer-services/ " class="premium-menu-link premium-sub-menu-link">Developer Services</a></li>
 	<li id="premium-nav-menu-item-664" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../financial-solutions/ " class="premium-menu-link premium-sub-menu-link">Financial Solutions</a></li>
 	<li id="premium-nav-menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../technology-solutions/ " class="premium-menu-link premium-sub-menu-link">Technology Solutions</a></li>
-	<li id="premium-nav-menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-656 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
+	<li id="premium-nav-menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../lifestyle-services/ " class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
 	<li id="premium-nav-menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-types/ " class="premium-menu-link premium-sub-menu-link">Community Types</a></li>
 </ul>
 </li>
@@ -146,12 +146,12 @@ img.emoji {
 <li id="premium-nav-menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children premium-nav-menu-item">
 <a href="#" class="premium-menu-link premium-menu-link-parent">Our services<i class="fas fa-angle-down premium-dropdown-icon"></i></a>
 <ul class="premium-sub-menu">
-	<li id="premium-nav-menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-management/ " class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
+	<li id="premium-nav-menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-558 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
 	<li id="premium-nav-menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../professional-maintenance/ " class="premium-menu-link premium-sub-menu-link">Professional Maintenance</a></li>
 	<li id="premium-nav-menu-item-637" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../developer-services/ " class="premium-menu-link premium-sub-menu-link">Developer Services</a></li>
 	<li id="premium-nav-menu-item-664" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../financial-solutions/ " class="premium-menu-link premium-sub-menu-link">Financial Solutions</a></li>
 	<li id="premium-nav-menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../technology-solutions/ " class="premium-menu-link premium-sub-menu-link">Technology Solutions</a></li>
-	<li id="premium-nav-menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-656 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
+	<li id="premium-nav-menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../lifestyle-services/ " class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
 	<li id="premium-nav-menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-types/ " class="premium-menu-link premium-sub-menu-link">Community Types</a></li>
 </ul>
 </li>
@@ -216,12 +216,12 @@ img.emoji {
 <li id="premium-nav-menu-item-693" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children premium-nav-menu-item">
 <a href="#" class="premium-menu-link premium-menu-link-parent">Our services<i class="fas fa-angle-down premium-dropdown-icon"></i></a>
 <ul class="premium-sub-menu">
-	<li id="premium-nav-menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-management/ " class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
+	<li id="premium-nav-menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-558 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
 	<li id="premium-nav-menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../professional-maintenance/ " class="premium-menu-link premium-sub-menu-link">Professional Maintenance</a></li>
 	<li id="premium-nav-menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../developer-services/ " class="premium-menu-link premium-sub-menu-link">Developer Services</a></li>
 	<li id="premium-nav-menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../financial-solutions/ " class="premium-menu-link premium-sub-menu-link">Financial Solutions</a></li>
 	<li id="premium-nav-menu-item-692" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../technology-solutions/ " class="premium-menu-link premium-sub-menu-link">Technology Solutions</a></li>
-	<li id="premium-nav-menu-item-689" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-656 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
+	<li id="premium-nav-menu-item-689" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../lifestyle-services/ " class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
 	<li id="premium-nav-menu-item-1215" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-types/ " class="premium-menu-link premium-sub-menu-link">Community Types</a></li>
 </ul>
 </li>
@@ -247,12 +247,12 @@ img.emoji {
 <li id="premium-nav-menu-item-693" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children premium-nav-menu-item">
 <a href="#" class="premium-menu-link premium-menu-link-parent">Our services<i class="fas fa-angle-down premium-dropdown-icon"></i></a>
 <ul class="premium-sub-menu">
-	<li id="premium-nav-menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-management/ " class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
+	<li id="premium-nav-menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-558 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
 	<li id="premium-nav-menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../professional-maintenance/ " class="premium-menu-link premium-sub-menu-link">Professional Maintenance</a></li>
 	<li id="premium-nav-menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../developer-services/ " class="premium-menu-link premium-sub-menu-link">Developer Services</a></li>
 	<li id="premium-nav-menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../financial-solutions/ " class="premium-menu-link premium-sub-menu-link">Financial Solutions</a></li>
 	<li id="premium-nav-menu-item-692" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../technology-solutions/ " class="premium-menu-link premium-sub-menu-link">Technology Solutions</a></li>
-	<li id="premium-nav-menu-item-689" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-656 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
+	<li id="premium-nav-menu-item-689" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../lifestyle-services/ " class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
 	<li id="premium-nav-menu-item-1215" class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-types/ " class="premium-menu-link premium-sub-menu-link">Community Types</a></li>
 </ul>
 </li>
@@ -305,9 +305,9 @@ img.emoji {
 		</section>
 						</div>
 		
-<main id="content" class="site-main post-656 page type-page status-publish hentry">
+<main id="content" class="site-main post-558 page type-page status-publish hentry">
 		<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="656" class="elementor elementor-656">
+				<div data-elementor-type="wp-page" data-elementor-id="558" class="elementor elementor-558">
 									<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-8908d3b elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="8908d3b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -317,17 +317,18 @@ img.emoji {
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.12.1 - 02-04-2023 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>
-<h2 class="elementor-heading-title elementor-size-default">Lifestyle Services</h2>		</div>
+<h2 class="elementor-heading-title elementor-size-default">Community Management</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-e102da0 elementor-widget elementor-widget-heading" data-id="e102da0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Boost the vitality of your neighborhood
+			<h2 class="elementor-heading-title elementor-size-default">Achieve bigger and better things
 </h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5d8eed8 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="5d8eed8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.12.1 - 02-04-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Our team develops engaging programs that are suitable for all types of communities. Our goal is to foster a sense of connection among neighbors through these initiatives.</p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="font-weight: 400;">Building a successful community takes a lot of hard work and dedication. Luckily, with our team on your side, you can rest assured that you&#8217;re in good hands.</span></p>
+<p><span style="font-weight: 400;">We&#8217;re all about providing exceptional management services, our commitment to consistency and attentiveness means that you can trust us to help you create and maintain a thriving community that truly stands out. </span></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -356,16 +357,15 @@ img.emoji {
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-37d980c elementor-widget elementor-widget-text-editor" data-id="37d980c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Lifestyle Services</p>						</div>
+							<p>Finance &amp; Accounting</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-84a8df4 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="84a8df4" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Bringing Communities Together
-</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Trustworthy Financial Standards</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-c154a55 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="c154a55" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Our team is experienced in creating programs that are designed to capture people’s attention and interest. We ensure that these programs are suitable for a wide range of communities, so that everyone can feel included and welcomed. Our main objective is to create opportunities for neighbors to connect with one another and develop a sense of community. We believe that building connections between people is essential for creating a strong and supportive neighborhood.</p>						</div>
+							<p>We understand that financial security is of utmost importance when it comes to building a strong and thriving community. We believe that maintaining the highest levels of financial strength is key to providing our communities and clients with the confidence they need to achieve financial goals. Our commitment to implementing the tightest security measures makes us a trustworthy partner that prioritizes your financial well-being.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -379,56 +379,483 @@ img.emoji {
 		</div>
 							</div>
 		</section>
-				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-4f5b713 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4f5b713" data-element_type="section">
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-c1cd91f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c1cd91f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6da1cd6" data-id="6da1cd6" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3a32a9a" data-id="3a32a9a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-64853c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64853c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+								<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-1f9347d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f9347d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-44c83cd" data-id="44c83cd" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5d86939" data-id="5d86939" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5085c3f elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-image" data-id="5085c3f" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-8f75f60 elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-image" data-id="8f75f60" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="911" height="845" src="./../wp-content/uploads/2023/04/Mask-Group-76.png" class="attachment-full size-full wp-image-983" alt="" srcset="./../wp-content/uploads/2023/04/Mask-Group-76.png 911w, ./../wp-content/uploads/2023/04/Mask-Group-76-300x278.png 300w, ./../wp-content/uploads/2023/04/Mask-Group-76-768x712.png 768w" sizes="(max-width: 911px) 100vw, 911px">															</div>
+															<img decoding="async" width="613" height="693" src="./../wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png" class="attachment-full size-full wp-image-972" alt="" srcset="./../wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png 613w, ./../wp-content/uploads/2023/04/Mask-Group-68-e1681484817654-265x300.png 265w" sizes="(max-width: 613px) 100vw, 613px">															</div>
 				</div>
-				<div class="elementor-element elementor-element-634636e elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="634636e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-2788386 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="2788386" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Our offer includes:
-
+			<h2 class="elementor-heading-title elementor-size-default">What we provide:
 </h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-2643e44 elementor-align-left elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="2643e44" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-element elementor-element-036a7c9 elementor-align-left elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="036a7c9" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="./../wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1681932063">		<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Grand opening events for new buildings</span>
+										<span class="elementor-icon-list-text">Handling your bills and payments</span>
 									</li>
 								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Fun community events that bring neighbors together</span>
+										<span class="elementor-icon-list-text">Collecting and keeping track of your </span>
 									</li>
 								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Golf and tennis tournaments for all skill levels</span>
+										<span class="elementor-icon-list-text">Helping you with your budget and financial planning</span>
 									</li>
 								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Festive holiday parties and celebrations</span>
+										<span class="elementor-icon-list-text">Writing and distributing your checks</span>
 									</li>
 								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Learning opportunities for people of all ages</span>
+										<span class="elementor-icon-list-text">Setting up your bank accounts</span>
 									</li>
 								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Movie nights under the stars</span>
+										<span class="elementor-icon-list-text">Creating financial reports to help you stay on top of things</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Keeping your funds safe and secure online</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-522beab" data-id="522beab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1415eb4 elementor-widget elementor-widget-spacer" data-id="1415eb4" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.12.1 - 02-04-2023 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ed904b2 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ed904b2" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Making sure all the details are taken care of when it comes to money you owe or are owed</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Estimating how much money you’ll need to spend in the future</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Making sure all the details are taken care of when it comes to money you owe or are owed</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Scanning your invoices and creating a vendor portal</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Giving you up-to-date information on your finances whenever you need it</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9c07c89" data-id="9c07c89" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fbce9c1 elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="fbce9c1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="613" height="693" src="./../wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png" class="attachment-full size-full wp-image-972" alt="" srcset="./../wp-content/uploads/2023/04/Mask-Group-68-e1681484817654.png 613w, ./../wp-content/uploads/2023/04/Mask-Group-68-e1681484817654-265x300.png 265w" sizes="(max-width: 613px) 100vw, 613px">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-4f5b713 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4f5b713" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6da1cd6" data-id="6da1cd6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-d94023f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d94023f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f1a77e8" data-id="f1a77e8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-57cc6ef elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="57cc6ef" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b9d2363" data-id="b9d2363" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-26fdc39 elementor-widget elementor-widget-text-editor" data-id="26fdc39" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Collections &amp; Enforcement</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-298ed76 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="298ed76" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">We’re always here to help keep 
+things running smoothly.
+
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8045a18 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="8045a18" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Collaboration is key to our approach, as we work towards solutions that benefit everyone involved. Our team brings a wealth of resources and expertise to the table when it comes to crafting payment solutions that are tailored to the needs of each individual situation. Our ultimate goal is to create solutions that foster strong relationships and contribute to the success of all parties.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c61f2e9" data-id="c61f2e9" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-89e0bc6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="89e0bc6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-37a55c5" data-id="37a55c5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-add7c61 elementor-widget elementor-widget-image" data-id="add7c61" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="931" height="828" src="./../wp-content/uploads/2023/04/Mask-Group-69.png" class="attachment-full size-full wp-image-973" alt="" srcset="./../wp-content/uploads/2023/04/Mask-Group-69.png 931w, ./../wp-content/uploads/2023/04/Mask-Group-69-300x267.png 300w, ./../wp-content/uploads/2023/04/Mask-Group-69-768x683.png 768w" sizes="(max-width: 931px) 100vw, 931px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bce1ac9" data-id="bce1ac9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f4ee107 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="f4ee107" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What we provide:
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cde8054 elementor-align-left elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="cde8054" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Making sure everyone follows the rules</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Letting you know if someone’s behind on payments  or breaking the rules</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Helping you manage accounts that are overdue</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Getting tough on people who don’t pay up by working  with a collection agency</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Giving you access to our call center, taking care of lien paperwork, taking legal action, or even foreclosing on  a property if needed</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-39eecde elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="39eecde" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-83ca45b" data-id="83ca45b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b5cd1c1 elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="b5cd1c1" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-25570a2" data-id="25570a2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-43eea1a elementor-widget elementor-widget-text-editor" data-id="43eea1a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Elections &amp; Governance</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2dc6489 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="2dc6489" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Together we make smarter choices
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d168b37 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="d168b37" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>We aim to enhance the prominence of your community while making the most efficient use of its resources.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e7838c3" data-id="e7838c3" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-2c71703 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c71703" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c673aea" data-id="c673aea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e345b35 elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-image" data-id="e345b35" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="845" height="771" src="./../wp-content/uploads/2023/04/Mask-Group-70.png" class="attachment-full size-full wp-image-974" alt="" srcset="./../wp-content/uploads/2023/04/Mask-Group-70.png 845w, ./../wp-content/uploads/2023/04/Mask-Group-70-300x274.png 300w, ./../wp-content/uploads/2023/04/Mask-Group-70-768x701.png 768w" sizes="(max-width: 845px) 100vw, 845px">															</div>
+				</div>
+				<div class="elementor-element elementor-element-1142426 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="1142426" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What we provide:
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2e87f76 elementor-align-left elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="2e87f76" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">We’ll keep you up to date with everything that happens at the board meetings, and we’ll make sure you have all the necessary paperwork to stay informed.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">You’ll have access to our board portal and app, where you can check your finances, request work orders, and exchange private messages with other members. You can also report any violations and make sure everyone complies with the rules.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Our homeowner portal and app (TownSq) is the perfect way to stay in the loop. You can view meeting schedules, read minutes, and take surveys from the comfort of your own home.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">We’ll perform regular property inspections to make sure everything is in good shape, and we’ll notify you if we spot any problems.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">If someone violates the rules, we’ll make sure to report it and take appropriate action. You’ll never have to worry about non-compliance again!</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">You’ll get to vote on important matters that affect the community, and your voice will be heard.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">If you want to make changes to your home, our team of experts will review your plans and make sure they meet our standards for design and architecture.</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2145be2" data-id="2145be2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b6ca4d7 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="b6ca4d7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="845" height="771" src="./../wp-content/uploads/2023/04/Mask-Group-70.png" class="attachment-full size-full wp-image-974" alt="" srcset="./../wp-content/uploads/2023/04/Mask-Group-70.png 845w, ./../wp-content/uploads/2023/04/Mask-Group-70-300x274.png 300w, ./../wp-content/uploads/2023/04/Mask-Group-70-768x701.png 768w" sizes="(max-width: 845px) 100vw, 845px">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-e1060a9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e1060a9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6f4f08c" data-id="6f4f08c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cbd1be8 elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="cbd1be8" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-97d7fa6" data-id="97d7fa6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-29d942e elementor-widget elementor-widget-text-editor" data-id="29d942e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Service Contracts</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6ac2d9a elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="6ac2d9a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Optimizing services and pricing
+
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1eef82b elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="1eef82b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Our team specializes in optimizing services and pricing by negotiating contracts and agreements with expertise</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-92cad7c" data-id="92cad7c" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-0d30fe2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d30fe2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-11f0409" data-id="11f0409" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-141bbba elementor-widget elementor-widget-image" data-id="141bbba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="670" height="972" src="./../wp-content/uploads/2023/04/564c4464-e1681414401479.png" class="attachment-full size-full wp-image-902" alt="" srcset="./../wp-content/uploads/2023/04/564c4464-e1681414401479.png 670w, ./../wp-content/uploads/2023/04/564c4464-e1681414401479-207x300.png 207w" sizes="(max-width: 670px) 100vw, 670px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-422b87b" data-id="422b87b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2fa2bc9 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="2fa2bc9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What we provide:
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b9fd4f9 elementor-align-left elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="b9fd4f9" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">We’ll help you find reliable and trustworthy contractors to work on your projects, and we’ll make sure they’re up to our high standards.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">We’ll negotiate value-added service contracts on your behalf, so you can get the best possible deal and save money in the long run.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">We’re not afraid to haggle! We’ll negotiate lower prices with vendors and contractors, so you can keep more money in your pocket.</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-d17cbcb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d17cbcb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-97af727" data-id="97af727" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9cc02db elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9cc02db" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-142a883" data-id="142a883" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-84ba1c1 elementor-widget elementor-widget-text-editor" data-id="84ba1c1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Homeowner Communications</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5b46e39 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="5b46e39" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Making sure everyone is feeling connected
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3a9517c elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="3a9517c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Our communication methods will keep everyone informed and in the loop, helping us build a strong sense of community among residents.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3daf30b" data-id="3daf30b" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-64853c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64853c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-44c83cd" data-id="44c83cd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-961a6a9 elementor-hidden-desktop elementor-hidden-laptop elementor-widget elementor-widget-image" data-id="961a6a9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1013" height="857" src="./../wp-content/uploads/2023/04/a4_page-2-e1681484880199.png" class="attachment-full size-full wp-image-975" alt="" srcset="./../wp-content/uploads/2023/04/a4_page-2-e1681484880199.png 1013w, ./../wp-content/uploads/2023/04/a4_page-2-e1681484880199-300x254.png 300w, ./../wp-content/uploads/2023/04/a4_page-2-e1681484880199-768x650.png 768w" sizes="(max-width: 1013px) 100vw, 1013px">															</div>
+				</div>
+				<div class="elementor-element elementor-element-634636e elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="634636e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What we provide:
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2643e44 elementor-align-left elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="2643e44" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Our homeowner portal/app is the perfect way to stay connected with your community. You can find all sorts of useful information and resources there, and you can connect with your neighbors and board members.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Our Webpage and Homeowner Resources are full of helpful tools and guides to help you manage your property and stay informed about the latest trends and best practices.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">We’ll send you regular community newsletters to keep you up to date on all the latest news and events. You’ll never miss a thing!</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">We’ve got community websites that are packed with information about your community, including photos, videos, and important announcements.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">We offer messaging services that allow you to communicate directly with your board members and neighbors. You can ask questions, share ideas, and get help whenever you need it.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">You can follow us on social media channels like Facebook, Twitter, and Instagram to stay connected with your community and see what’s happening around town.</span>
 									</li>
 						</ul>
 				</div>
@@ -439,7 +866,102 @@ img.emoji {
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-0658c4d elementor-hidden-mobile elementor-hidden-tablet elementor-widget elementor-widget-image" data-id="0658c4d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="911" height="845" src="./../wp-content/uploads/2023/04/Mask-Group-76.png" class="attachment-full size-full wp-image-983" alt="" srcset="./../wp-content/uploads/2023/04/Mask-Group-76.png 911w, ./../wp-content/uploads/2023/04/Mask-Group-76-300x278.png 300w, ./../wp-content/uploads/2023/04/Mask-Group-76-768x712.png 768w" sizes="(max-width: 911px) 100vw, 911px">															</div>
+															<img decoding="async" width="1013" height="857" src="./../wp-content/uploads/2023/04/a4_page-2-e1681484880199.png" class="attachment-full size-full wp-image-975" alt="" srcset="./../wp-content/uploads/2023/04/a4_page-2-e1681484880199.png 1013w, ./../wp-content/uploads/2023/04/a4_page-2-e1681484880199-300x254.png 300w, ./../wp-content/uploads/2023/04/a4_page-2-e1681484880199-768x650.png 768w" sizes="(max-width: 1013px) 100vw, 1013px">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-6fe014f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6fe014f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0413ffb" data-id="0413ffb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-97add7f elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="97add7f" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d37f648" data-id="d37f648" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-37d578e elementor-widget elementor-widget-text-editor" data-id="37d578e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Insurance Services</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e715a20 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="e715a20" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tailor-made insurance plans</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4c05cd3 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="4c05cd3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>We’ve got you covered with affordable insurance that fits your needs.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4bff99c" data-id="4bff99c" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-8204d07 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8204d07" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a8b594f" data-id="a8b594f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6b2de48 elementor-widget elementor-widget-image" data-id="6b2de48" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1057" height="936" src="./../wp-content/uploads/2023/04/a4_pageSOMBRILLA-1-e1681484914135.png" class="attachment-full size-full wp-image-976" alt="" srcset="./../wp-content/uploads/2023/04/a4_pageSOMBRILLA-1-e1681484914135.png 1057w, ./../wp-content/uploads/2023/04/a4_pageSOMBRILLA-1-e1681484914135-300x266.png 300w, ./../wp-content/uploads/2023/04/a4_pageSOMBRILLA-1-e1681484914135-1024x907.png 1024w, ./../wp-content/uploads/2023/04/a4_pageSOMBRILLA-1-e1681484914135-768x680.png 768w" sizes="(max-width: 1057px) 100vw, 1057px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a1f536c" data-id="a1f536c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ad76b09 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="ad76b09" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Our insurance coverage 
+includes:
+
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-48d33d5 elementor-align-left elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="48d33d5" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Condos, because we know how important your home is to you. Co-ops, because we understand the unique needs of cooperative communities.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Commercial projects, because we know that your business is your livelihood.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Mixed-use projects, because we recognize the growing trend of combining residential and commercial spaces.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Single-family homes, because we know that your home is more than just a house.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Townhomes, because we understand that you want to live in a community that suits your lifestyle.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-dot-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Other residential community types, because we know that every community is unique and deserves to be protected.</span>
+									</li>
+						</ul>
+				</div>
 				</div>
 					</div>
 		</div>
@@ -563,12 +1085,12 @@ img.emoji {
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children premium-nav-menu-item">
 <a href="#" class="premium-menu-link premium-menu-link-parent">Our services<i class="fas fa-angle-down premium-dropdown-icon"></i></a>
 <ul class="premium-sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-management/ " class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-558 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../professional-maintenance/ " class="premium-menu-link premium-sub-menu-link">Professional Maintenance</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../developer-services/ " class="premium-menu-link premium-sub-menu-link">Developer Services</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../financial-solutions/ " class="premium-menu-link premium-sub-menu-link">Financial Solutions</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../technology-solutions/ " class="premium-menu-link premium-sub-menu-link">Technology Solutions</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-656 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../lifestyle-services/ " class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-types/ " class="premium-menu-link premium-sub-menu-link">Community Types</a></li>
 </ul>
 </li>
@@ -594,12 +1116,12 @@ img.emoji {
 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children premium-nav-menu-item">
 <a href="#" class="premium-menu-link premium-menu-link-parent">Our services<i class="fas fa-angle-down premium-dropdown-icon"></i></a>
 <ul class="premium-sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-management/ " class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-558 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Community Management</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../professional-maintenance/ " class="premium-menu-link premium-sub-menu-link">Professional Maintenance</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../developer-services/ " class="premium-menu-link premium-sub-menu-link">Developer Services</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../financial-solutions/ " class="premium-menu-link premium-sub-menu-link">Financial Solutions</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../technology-solutions/ " class="premium-menu-link premium-sub-menu-link">Technology Solutions</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-656 current_page_item premium-nav-menu-item premium-sub-menu-item premium-active-item"><a href="./ " aria-current="page" class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../lifestyle-services/ " class="premium-menu-link premium-sub-menu-link">Lifestyle Services</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page premium-nav-menu-item premium-sub-menu-item"><a href="./../community-types/ " class="premium-menu-link premium-sub-menu-link">Community Types</a></li>
 </ul>
 </li>
@@ -626,7 +1148,7 @@ img.emoji {
 <link rel="stylesheet" id="premium-addons-css" href="./../wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.53" media="all">
 <link rel="stylesheet" id="e-animations-css" href="./../wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.12.1" media="all">
 <script src="./../wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0" id="hello-theme-frontend-js"></script>
-<script id="eael-general-js-extra">var localize = {"ajaxurl":".\/\/wp-admin\/admin-ajax.php","nonce":"838e674207","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":".\/\/lifestyle-services\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1440,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"ParticleThemesData":{"default":"{\"particles\":{\"number\":{\"value\":160,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":true,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"repulse\"},\"onclick\":{\"enable\":true,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nasa":"{\"particles\":{\"number\":{\"value\":250,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":1,\"random\":true,\"anim\":{\"enable\":true,\"speed\":1,\"opacity_min\":0,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":4,\"size_min\":0.3,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"none\",\"random\":true,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":600}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":250,\"size\":0,\"duration\":2,\"opacity\":0,\"speed\":3},\"repulse\":{\"distance\":400,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","bubble":"{\"particles\":{\"number\":{\"value\":15,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#1b1e34\"},\"shape\":{\"type\":\"polygon\",\"stroke\":{\"width\":0,\"color\":\"#000\"},\"polygon\":{\"nb_sides\":6},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":50,\"random\":false,\"anim\":{\"enable\":true,\"speed\":10,\"size_min\":40,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":200,\"color\":\"#ffffff\",\"opacity\":1,\"width\":2},\"move\":{\"enable\":true,\"speed\":8,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","snow":"{\"particles\":{\"number\":{\"value\":450,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#fff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":500,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":2},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"bottom\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":0.5}},\"bubble\":{\"distance\":400,\"size\":4,\"duration\":0.3,\"opacity\":1,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nyan_cat":"{\"particles\":{\"number\":{\"value\":150,\"density\":{\"enable\":false,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"star\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"http:\/\/wiki.lexisnexis.com\/academic\/images\/f\/fb\/Itunes_podcast_icon_300.jpg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":4,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":14,\"direction\":\"left\",\"random\":false,\"straight\":true,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":200,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}"},"eael_login_nonce":"e8c5dc8f63","eael_register_nonce":"39966ab0d7","eael_lostpassword_nonce":"14f87f97d9","eael_resetpassword_nonce":"c2433a5b59"};</script>
+<script id="eael-general-js-extra">var localize = {"ajaxurl":".\/\/wp-admin\/admin-ajax.php","nonce":"838e674207","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":".\/\/community-management\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1440,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"ParticleThemesData":{"default":"{\"particles\":{\"number\":{\"value\":160,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":true,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"repulse\"},\"onclick\":{\"enable\":true,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nasa":"{\"particles\":{\"number\":{\"value\":250,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":1,\"random\":true,\"anim\":{\"enable\":true,\"speed\":1,\"opacity_min\":0,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":4,\"size_min\":0.3,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"none\",\"random\":true,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":600}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":250,\"size\":0,\"duration\":2,\"opacity\":0,\"speed\":3},\"repulse\":{\"distance\":400,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","bubble":"{\"particles\":{\"number\":{\"value\":15,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#1b1e34\"},\"shape\":{\"type\":\"polygon\",\"stroke\":{\"width\":0,\"color\":\"#000\"},\"polygon\":{\"nb_sides\":6},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":50,\"random\":false,\"anim\":{\"enable\":true,\"speed\":10,\"size_min\":40,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":200,\"color\":\"#ffffff\",\"opacity\":1,\"width\":2},\"move\":{\"enable\":true,\"speed\":8,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","snow":"{\"particles\":{\"number\":{\"value\":450,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#fff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img\/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":500,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":2},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"bottom\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":0.5}},\"bubble\":{\"distance\":400,\"size\":4,\"duration\":0.3,\"opacity\":1,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nyan_cat":"{\"particles\":{\"number\":{\"value\":150,\"density\":{\"enable\":false,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"star\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"http:\/\/wiki.lexisnexis.com\/academic\/images\/f\/fb\/Itunes_podcast_icon_300.jpg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":4,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":14,\"direction\":\"left\",\"random\":false,\"straight\":true,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":200,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}"},"eael_login_nonce":"e8c5dc8f63","eael_register_nonce":"39966ab0d7","eael_lostpassword_nonce":"14f87f97d9","eael_resetpassword_nonce":"c2433a5b59"};</script>
 <script src="./../wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.7.1" id="eael-general-js"></script>
 <script src="./../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
 <script src="./../wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min.js?ver=4.9.53" id="lottie-js-js"></script>
@@ -646,7 +1168,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig = {"ajaxurl":".\/\/wp-admin\/admin-ajax.php","nonce":"09d87681df","urls":{"assets":".\/\/wp-content\/plugins\/elementor-pro\/assets\/","rest":".\/\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":".\/\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
 <script src="./../wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.12.2" id="elementor-pro-frontend-js"></script>
 <script src="./../wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1440,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.12.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":".\/\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"viewport_laptop":1440,"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":656,"title":"Lifestyle%20Services%20-%20Elite%20PRO","excerpt":"","featuredImage":false}};</script>
+<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1440,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.12.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":".\/\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"viewport_laptop":1440,"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":558,"title":"Community%20Management%20-%20Elite%20PRO","excerpt":"","featuredImage":false}};</script>
 <script src="./../wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.1" id="elementor-frontend-js"></script>
 <script src="./../wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.12.2" id="pro-elements-handlers-js"></script>
 
